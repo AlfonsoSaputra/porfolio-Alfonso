@@ -19,7 +19,7 @@ export default function Blogsection() {
         <div className="flex flex-wrap">
             <div className="w-full px-4 lg:w-1/2 xl:w-1/3">
                 <div className="bg-white rounded-xl shadow-lg overflow-hidden mb-10">
-                    <img src="/portfo/sap.png" alt="programming" className="w-full"/>
+                    <img src="/portfo/sap.PNG" alt="programming" className="w-full"/>
                     <div className="px-6 py-8">
                         <h3 className="mb-3 text-dark font-semibold text=xl hover:text-primary truncate">Portfolio</h3>
                         <p className="font-medium text-secondary text-base mb-6">Website Portfolio ini dibuat dengan bahasa pemrograman Tailwind CSS</p>
@@ -39,7 +39,7 @@ export default function Blogsection() {
             </div>
             <div className="w-full px-4 lg:w-1/2 xl:w-1/3">
                 <div className="bg-white rounded-xl shadow-lg overflow-hidden mb-10">
-                    <img src="/portfo/leng.png" alt="programming" className="w-full"/>
+                    <img src="/portfo/leng.PNG" alt="programming" className="w-full"/>
                     <div className="px-6 py-8">
                         <h3 className="mb-3 text-dark font-semibold text=xl hover:text-primary truncate">Ecomerce web</h3>
                         <p className="font-medium text-secondary text-base mb-6">Website ini dibuat dengan bahasa pemrograman next.js</p>
