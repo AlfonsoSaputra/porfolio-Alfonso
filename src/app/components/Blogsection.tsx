@@ -23,7 +23,7 @@ export default function Blogsection() {
                     <div className="px-6 py-8">
                         <h3 className="mb-3 text-dark font-semibold text=xl hover:text-primary truncate">Portfolio</h3>
                         <p className="font-medium text-secondary text-base mb-6">Website Portfolio ini dibuat dengan bahasa pemrograman Tailwind CSS</p>
-                        <a href="" className="font=medium text-sm text-white bg-primary py-2 px-4 rounded-lg hover:opacity-80">Baca Selengkapnya</a>
+                        <a href="#home" className="font=medium text-sm text-white bg-primary py-2 px-4 rounded-lg hover:opacity-80">Baca Selengkapnya</a>
                     </div>
                 </div>
             </div>
