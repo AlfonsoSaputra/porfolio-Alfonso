@@ -41,8 +41,8 @@ export default function Blogsection() {
                 <div className="bg-white rounded-xl shadow-lg overflow-hidden mb-10">
                     <img src="/portfo/leng.png" alt="programming" className="w-full"/>
                     <div className="px-6 py-8">
-                        <h3 className="mb-3 text-dark font-semibold text=xl hover:text-primary truncate">belajar</h3>
-                        <p className="font-medium text-secondary text-base mb-6">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure, unde!</p>
+                        <h3 className="mb-3 text-dark font-semibold text=xl hover:text-primary truncate">Ecomerce web</h3>
+                        <p className="font-medium text-secondary text-base mb-6">Website ini dibuat dengan bahasa pemrograman next.js</p>
                         <a href="https://alfonsosaputra.github.io/first-ecomerce-web/" className="font=medium text-sm text-white bg-primary py-2 px-4 rounded-lg hover:opacity-80">Baca Selengkapnya</a>
                     </div>
                 </div>
