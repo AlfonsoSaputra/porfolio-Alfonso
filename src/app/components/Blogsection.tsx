@@ -29,7 +29,7 @@ export default function Blogsection() {
             </div>
             <div className="w-full px-4 lg:w-1/2 xl:w-1/3">
                 <div className="bg-white rounded-xl shadow-lg overflow-hidden mb-10">
-                    <img src="/images/mo.png" alt="programming" className="w-full"/>
+                    <img src="/images/mo.PNG" alt="programming" className="w-full"/>
                     <div className="px-6 py-8">
                         <h3 className="mb-3 text-dark font-semibold text=xl hover:text-primary truncate">Landing page kopi</h3>
                         <p className="font-medium text-secondary text-base mb-6">Website ini dibuat dengan bahasa pemrograman html css dan javascipt</p>
